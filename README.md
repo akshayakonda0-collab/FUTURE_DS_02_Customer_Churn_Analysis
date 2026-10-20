@@ -38,6 +38,30 @@ This project analyzes customer churn using Python, Pandas, and Matplotlib. The g
 ## 📂 Dataset
 IBM Telco Customer Churn dataset.
 
+## 📈 Visualizations
+
+### 1. Churn Rate by Contract Type
+![Churn by Contract](churn_by_contract.png)
+
+### 2. Average Customer Tenure by Churn
+![Average Tenure](average_tenure_by_churn.png)
+
+### 3. Churn by Payment Method
+![Churn by Payment](churn_by_payment_method.png)
+
+### 4. Churn by Internet Service
+![Churn by Internet Service](churn_by_internet_service.png)
+
+### 5. Monthly Charges by Churn
+![Monthly Charges](monthly_charges_by_churn.png)
+
+### 6. Churn by Tenure Group
+![Churn by Tenure Group](churn_by_tenure_group.png)
+
+### 7. Churn by Partner Status
+![Churn by Partner Status](churn_by_partner_status.png)
+
+
 ## 👩‍💻 Internship
 Future Interns — Data Science & Analytics Internship
 
